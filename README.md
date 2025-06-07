@@ -1,20 +1,16 @@
-                                                                                                        
-```                                                                                                        
-___    __  ________    ________            ___       ___       _      ___    __  __________ ________    
-`MM    d'  @`MMMMMMMb.  `MMMMMMMb.          `MMb     dMM'      dM.     `MM    d'  @`MMMMMMMMM `MMMMMMMb.  
- MM   d'    MM    `Mb   MM    `Mb           MMM.   ,PMM      ,MMb      MM   d'    MM      \  MM    `Mb  
- MM  d'     MM     MM   MM     MM  _______  M`Mb   d'MM      d'YM.     MM  d'     MM         MM     MM  
- MM d'      MM     MM   MM    .M9 ,MMMMMMM  M YM. ,P MM     ,P `Mb     MM d'      MM    ,    MM     MM  
- MMd'       MM    .M9   MMMMMMM(  dM        M `Mb d' MM     d'  YM.    MMd'       MMMMMMM    MM    .M9  
- MMYM.      MMMMMMM9'   MM    `Mb MP        M  YM.P  MM    ,P   `Mb    MMYM.      MM    `    MMMMMMM9'  
- MM YM.     MM  \M\     MM     MM M'        M  `Mb'  MM    d'    YM.   MM YM.     MM         MM  \M\    
- MM  YM.    MM   \M\    MM     MM MMMMMMb   M   YP   MM   ,MMMMMMMMb   MM  YM.    MM         MM   \M\   
- MM   YM.   MM    \M\   MM    .M9      `Mb  M   `'   MM   d'      YM.  MM   YM.   MM      /  MM    \M\  
-_MM_   YM.__MM_    \M\__MMMMMMM9'       MM _M_      _MM__dM_     _dMM__MM_   YM.__MMMMMMMMM _MM_    \M\_
-                                        MM                                                              
-                                  MM.  ,M9                                                              
-                                   YMMMM9                                                               
-```
+                                                                                     
+                                                                                                           
+                                                                                                           
+`7MMF' `YMM'`7MM"""Mq. `7MM"""Yp,          `7MMM.     ,MMF'     db     `7MMF' `YMM'`7MM"""YMM  `7MM"""Mq.  
+  MM   .M'    MM   `MM.  MM    Yb            MMMb    dPMM      ;MM:      MM   .M'    MM    `7    MM   `MM. 
+  MM .d"      MM   ,M9   MM    dP  M******   M YM   ,M MM     ,V^MM.     MM .d"      MM   d      MM   ,M9  
+  MMMMM.      MMmmdM9    MM"""bg. .M         M  Mb  M' MM    ,M  `MM     MMMMM.      MMmmMM      MMmmdM9   
+  MM  VMA     MM  YM.    MM    `Y |bMMAg.    M  YM.P'  MM    AbmmmqMA    MM  VMA     MM   Y  ,   MM  YM.   
+  MM   `MM.   MM   `Mb.  MM    ,9      `Mb   M  `YM'   MM   A'     VML   MM   `MM.   MM     ,M   MM   `Mb. 
+.JMML.   MMb.JMML. .JMM.JMMmmmd9        jM .JML. `'  .JMML.AMA.   .AMMA.JMML.   MMb.JMMmmmmMMM .JMML. .JMM.
+                                  (O)  ,M9                                                                 
+                                   6mmm9                                                                                                                  
+
 
 
 Script en Python diseñado para generar automáticamente un archivo de configuración válido para Kerberos
