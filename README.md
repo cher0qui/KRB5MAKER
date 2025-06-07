@@ -48,15 +48,17 @@ python3 KRB5MAKER.py <DC_IP>
 
 Esto iniciará el menú interactivo donde podrás elegir entre: 
 
-    Detección automática  usando LDAP o DNS inverso.
-    Introducir manualmente  el REALM Kerberos.
-    Usar solo la IP del DC.
+[!]  Detección automática  usando LDAP o DNS inverso.
+[!]  Introducir manualmente  el REALM Kerberos.
+[!]  Usar solo la IP del DC.
+
+    
 Por defecto, el archivo generado se guardará como ./krb5.conf. Se debe mover a /etc/krb5.conf
 
 Notas de Seguridad 
 
-    Asegúrate de que la máquina tenga conectividad de red con el Controlador de Dominio en los puertos relevantes (LDAP: 389, DNS: 53).
-    El archivo generado es básico y puede requerir ajustes adicionales en entornos productivos o complejos.
+  [!]  Asegúrate de que la máquina tenga conectividad de red con el Controlador de Dominio en los puertos relevantes (LDAP: 389, DNS: 53).
+  [!]  El archivo generado es básico y puede requerir ajustes adicionales en entornos productivos o complejos.
 
 Licencia 
 
