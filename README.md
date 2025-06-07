@@ -13,6 +13,10 @@
 ```
 
 
+### DEMO
+![Demo del script](demo.gif)
+
+
 Script en Python diseñado para generar automáticamente un archivo de configuración válido para Kerberos
 krb5.conf Generator 
 
