@@ -141,7 +141,7 @@ def main():
     print_banner()
 
     if len(sys.argv) != 2:
-        print(f"Uso: sudo {sys.argv[0]} <IP_DEL_DC>")
+        print(f"Uso:{sys.argv[0]} <IP_DEL_DC>")
         sys.exit(1)
     
     
