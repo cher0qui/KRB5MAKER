@@ -18,7 +18,7 @@
 
 
 Script en Python diseñado para generar automáticamente un archivo de configuración válido para Kerberos
-krb5.conf Generator 
+krb5.conf
 
 Este es un script en Python diseñado para generar automáticamente un archivo de configuración válido para Kerberos (krb5.conf) en sistemas Linux que necesitan conectarse a un entorno Active Directory (AD). 
 
