@@ -1,5 +1,5 @@
                                                                                      
-                                                                                                           
+```                                                                                                           
                                                                                                            
 `7MMF' `YMM'`7MM"""Mq. `7MM"""Yp,          `7MMM.     ,MMF'     db     `7MMF' `YMM'`7MM"""YMM  `7MM"""Mq.  
   MM   .M'    MM   `MM.  MM    Yb            MMMb    dPMM      ;MM:      MM   .M'    MM    `7    MM   `MM. 
@@ -10,7 +10,7 @@
 .JMML.   MMb.JMML. .JMM.JMMmmmd9        jM .JML. `'  .JMML.AMA.   .AMMA.JMML.   MMb.JMMmmmmMMM .JMML. .JMM.
                                   (O)  ,M9                                                                 
                                    6mmm9                                                                                                                  
-
+```
 
 
 Script en Python diseñado para generar automáticamente un archivo de configuración válido para Kerberos
