@@ -1,4 +1,22 @@
-# KRB5MAKER
+                                                                                                        
+                                                                                                        
+___    __  ________    ________            ___       ___       _      ___    __  __________ ________    
+`MM    d'  @`MMMMMMMb.  `MMMMMMMb.          `MMb     dMM'      dM.     `MM    d'  @`MMMMMMMMM `MMMMMMMb.  
+ MM   d'    MM    `Mb   MM    `Mb           MMM.   ,PMM      ,MMb      MM   d'    MM      \  MM    `Mb  
+ MM  d'     MM     MM   MM     MM  _______  M`Mb   d'MM      d'YM.     MM  d'     MM         MM     MM  
+ MM d'      MM     MM   MM    .M9 ,MMMMMMM  M YM. ,P MM     ,P `Mb     MM d'      MM    ,    MM     MM  
+ MMd'       MM    .M9   MMMMMMM(  dM        M `Mb d' MM     d'  YM.    MMd'       MMMMMMM    MM    .M9  
+ MMYM.      MMMMMMM9'   MM    `Mb MP        M  YM.P  MM    ,P   `Mb    MMYM.      MM    `    MMMMMMM9'  
+ MM YM.     MM  \M\     MM     MM M'        M  `Mb'  MM    d'    YM.   MM YM.     MM         MM  \M\    
+ MM  YM.    MM   \M\    MM     MM MMMMMMb   M   YP   MM   ,MMMMMMMMb   MM  YM.    MM         MM   \M\   
+ MM   YM.   MM    \M\   MM    .M9      `Mb  M   `'   MM   d'      YM.  MM   YM.   MM      /  MM    \M\  
+_MM_   YM.__MM_    \M\__MMMMMMM9'       MM _M_      _MM__dM_     _dMM__MM_   YM.__MMMMMMMMM _MM_    \M\_
+                                        MM                                                              
+                                  MM.  ,M9                                                              
+                                   YMMMM9                                                               
+
+
+
 Script en Python diseñado para generar automáticamente un archivo de configuración válido para Kerberos
 krb5.conf Generator 
 
